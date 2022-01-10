@@ -7,3 +7,6 @@ expo install expo-font @expo-google-fonts/poppins
 ```bash
 expo install expo-app-loading
 ```
+
+* Icons expo
+https://icons.expo.fyi/
